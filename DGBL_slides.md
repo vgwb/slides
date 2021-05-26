@@ -58,6 +58,19 @@ Game based learning (GBL) is a type of game play that has defined learning outco
 
 <!-- slide -->
 
+# Learning
+
+![](img/games-learning.png)
+
+
+<!-- slide -->
+
+# Learning flow
+
+![](img/gbl-education.png)
+
+<!-- slide -->
+
 # Impact on teachers and teaching practices
 
 **Enjoyment and motivation**: Being able to participate in the projects as much as their students, due in no small part to the enjoyment and motivation they see in the children. It allows teachers to engage in the activities which can also encourage students to want to take part if they see that their teacher is as well.
@@ -91,17 +104,6 @@ The purpose of feedback is to help learners evaluate their progress and performa
 
 <!-- slide -->
 
-# Education
-
-![](img/gbl-education.png)
-
-<!-- slide -->
-
-# Learning
-
-![](img/games-learning.png)
-
-
 <!-- slide -->
 
 # Practicalities of learning in gaming environment
@@ -111,6 +113,24 @@ The purpose of feedback is to help learners evaluate their progress and performa
 - Time available, location, resources
 - Associated activities, briefing, debriefing
 - Building in reflection and collaboration
+
+<!-- slide -->
+
+# Assessment
+Using games for assessment is about more than tracking points. 
+
+One of the most common misconceptions is that all good learning games must assess learners within the game.
+The truth is that assessment happens around a game more often than it happens inside the game, and teachers must still design and provide authentic, useful assessment tasks for students.
+
+<!-- slide -->
+
+# Analytics / Educational Data Mining
+DGBL provides multiple possibilities for automatic analytics
+
+- prediction
+- discover
+- relationship
+- visualization
 
 <!-- slide -->
 
@@ -125,24 +145,7 @@ The purpose of feedback is to help learners evaluate their progress and performa
 
 <!-- slide -->
 
-# Assessment
-Using games for assessment is about more than tracking points. 
-
-One of the most common misconceptions is that all good learning games must assess learners within the game.
-The truth is that assessment happens around a game more often than it happens inside the game, and teachers must still design and provide authentic, useful assessment tasks for students.
-
-<!-- slide -->
-
-# Benefits of GBL
-Game-based learning approaches build on many students existing interests, skills and knowledge
-
-- the capacity to increase teacher motivation
-- an excellent opportunity to engage students in activities which can enhance learning and produce a range of educational benefits
-- can increase communication between parents and teachers and school leaders
-
-<!-- slide -->
-
-# Limitations
+# GBL Limitations
 **Curriculum**: The challenge for teachers to identify how a certain game would connect to the curriculum. Difficulty with integrating the play of the game into the time structure of the day.
 
 **Game related**: The challenge for teachers to identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
