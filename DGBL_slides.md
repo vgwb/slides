@@ -208,10 +208,10 @@ The truth is that assessment happens around a game more often than it happens in
 # Development options
 
 - Use entertainment/commercial games (Assassin Creed / Civilization)
-- Modify entertainment games ()
+- Modify entertainment games (Kerbal Space Academy)
 - Use virtual worlds (Minecraft)
 - Use educational games (MinecraftEdu)
-- Create games ()
+- Create games (Antura)
 - Students create games
 <!-- slide -->
 
@@ -222,16 +222,14 @@ The truth is that assessment happens around a game more often than it happens in
 # Game Model
 ![](img/GBLModel.webp)
 
-
 <!-- slide -->
 as designers:
-# Cognitive Foundations
+### Cognitive Foundations
 ![](img/cognitive_approach.png)
 
-# Emotional Foundations
+### Emotional Foundations
 
-# Motivational Foundations
-
+### Motivational Foundations
 
 <!-- slide -->
 # Objectives of learning analytics
@@ -245,24 +243,18 @@ as designers:
 
 <!-- slide -->
 
-# GBL Limitations
-**Curriculum**: identify how a certain game would connect to the curriculum. Difficulty with integrating the play of the game into the time structure of the day.
+# GBL challenges
+**Curriculum**: identify how a certain game would connect to the curriculum. 
 
 **Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
 
-**Attitudes**: persuading all stakeholders about the value of the game.
+**Attitudes**: persuading all stakeholders and non-players about the educational value of the game.
 
-**Teacher support**: Lack of available time for teachers to learn the game and generate best practices with it. Lack of specific training and support on the effective use of games in the classroom.
+**Educators and Teachers support**: make them aware of how to use games more effectively in education.
 
 **Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
 
-<!-- slide -->
-
-# DGBL challenges
-
-- convince non-users of games of their educational value
-- encourage and support game developers in the creation of better educational games
-- make educators aware of how to use games more effectively in education
+**Developers** encourage and support game developers in the creation of better educational games
 
 <!-- slide -->
 # some games examples
