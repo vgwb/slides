@@ -10,7 +10,7 @@ presentation:
 ---
 
 <!-- slide -->
-# Game based learning
+# Digital Game Based Learning
 an introduction
 
 by Video Games Without Borders
