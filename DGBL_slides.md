@@ -47,20 +47,25 @@ several types of games may be used in digital game-based learning:
 <!-- slide -->
 # Principles
 - Intrinsic motivation: playing is voluntary and self-driven
+- A **safe environment** to explore and in which to **make mistakes**
 - Learning through enjoyment and "fun"
 - Authenticity: contextualised, goal oriented instead of abstract learning
 - Self-reliance and autonomy: passions and interests that lead to a will to specialize
 - Experiential learning: learning by doing
+- Seamless accountability, feedback, intrinsic and extrinsic motivators
+- Combine audio, graphics and movement into an interactive and immersive environment
+- Age appropriate
 
 <!-- slide -->
 ## Mechanisms
 - Rules: simple and binary (e.g. if/then) or requiring more complex decision making
 - Clear but challenging goals
 - A fictional setting or "fantasy"
-- Progressive difficulty levels
+- Progressive difficulty levels and ppropriate challenge
 - Interaction and high degree of student control
 - Immediate and constructive feedback
 - A social element that allows people to share experience and build bonds
+- Clear, achievable goals, rules, measurable outcomes and rewards
 
 <!-- slide -->
 # Videogames
@@ -131,15 +136,6 @@ Computer games are possibly the most engaging pastime in the history of mankind.
 |36. Insider Principle | _Helping others and modifying games, in addition to just playing_ |
 
 <!-- slide -->
-
-# Key Features 
-- Defined learning outcomes, meaningful learning experiences
-- Provide context and real world value of skill and content
-- Encourage deeper learning, integration of knowledge base and skill sets
-- Seamless accountability, feedback, intrinsic and extrinsic motivators
-- Combine audio, graphics and movement into an interactive and immersive environment (DGBL)
-
-<!-- slide -->
 ## Flow
 ![](img/flow-1.png)
 
@@ -152,19 +148,12 @@ Computer games are possibly the most engaging pastime in the history of mankind.
 ![](img/games.png)
 
 <!-- slide -->
-
-# Characteristics of good games
-- FUN
-- Age appropriate
-- A **safe environment** to explore and in which to **make mistakes**
-- Collaboration and competition
-- Interaction and realtime feedback
-- Appropriate challenge, gradually increasing difficulty
-- Clear, achievable goals, rules, measurable outcomes and rewards
+# Learning
+![](img/cognitive_approach.png)
 
 <!-- slide -->
 
-# Procedure
+# GBL approach
 
 - introduction to videogame (+coach: tech + expectations)
 - gameplay / experience (autonomous)
@@ -221,15 +210,6 @@ The truth is that assessment happens around a game more often than it happens in
 <!-- slide -->
 # Game Model
 ![](img/GBLModel.webp)
-
-<!-- slide -->
-as designers:
-### Cognitive Foundations
-![](img/cognitive_approach.png)
-
-### Emotional Foundations
-
-### Motivational Foundations
 
 <!-- slide -->
 # Objectives of learning analytics
