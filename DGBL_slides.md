@@ -46,30 +46,26 @@ several types of games may be used in digital game-based learning:
 
 <!-- slide -->
 # Principles
-- Intrinsic motivation: playing is voluntary and self-driven
 - A **safe environment** to explore and in which to **make mistakes**
 - Learning through enjoyment and "fun"
-- Authenticity: contextualised, goal oriented instead of abstract learning
-- Self-reliance and autonomy: passions and interests that lead to a will to specialize
+- Contextualised, goal oriented instead of abstract learning
 - Experiential learning: learning by doing
-- Seamless accountability, feedback, intrinsic and extrinsic motivators
+- Intrinsic motivation: playing is voluntary and self-driven
+- Seamless accountability and feedback
 - Combine audio, graphics and movement into an interactive and immersive environment
-- Age appropriate
+- Age and culture appropriate
 
 <!-- slide -->
 ## Mechanisms
-- Rules: simple and binary (e.g. if/then) or requiring more complex decision making
-- Clear but challenging goals
-- A fictional setting or "fantasy"
-- Progressive difficulty levels and ppropriate challenge
-- Interaction and high degree of student control
+- A fictional or real world setting
+- Progressive difficulty levels and appropriate challenge
 - Immediate and constructive feedback
 - A social element that allows people to share experience and build bonds
 - Clear, achievable goals, rules, measurable outcomes and rewards
 
 <!-- slide -->
 # Videogames
-Computer games are possibly the most engaging pastime in the history of mankind. These games bring together combination of motivating elements not found together in any other medium.
+Games bring together combination of motivating elements not found together in any other medium.
 **Games**:
 - are a form of fun -> _enjoyment and pleasure_
 - are a form of play -> intense and passionate _involvement_
@@ -81,8 +77,8 @@ Computer games are possibly the most engaging pastime in the history of mankind.
 - have a win state -> ego _gratification_
 - have conflict/competition/challenge/opposition -> _adrenaline_
 - have problem solving -> sparks _creativity_
-- have interaction -> _social groups_
-- have characters and story -> _emotion_
+- have peer interaction -> _social groups_
+- have characters and story -> _emotions_
 
 <!-- slide -->
 ## 36 Learning principles in VideoGames
@@ -153,11 +149,11 @@ Computer games are possibly the most engaging pastime in the history of mankind.
 
 <!-- slide -->
 
-# GBL approach
+# DGBL approach
 
 - introduction to videogame (+coach: tech + expectations)
 - gameplay / experience (autonomous)
-- game results / scores
+- game results / scores (autonomous)
 - reflection / analysis (+coach)
 - forming abstract concepts + real world application
 
@@ -172,31 +168,15 @@ Computer games are possibly the most engaging pastime in the history of mankind.
 
 <!-- slide -->
 
-# Coach Responsibilities:
-- provide and explain the technology
-- Match with curriculum – gaming outcomes and learning outcomes
-- Time available, location, resources
-- Associated activities, briefing, debriefing
-- Building in reflection and collaboration
-- DGBL terminology
-- How to choose and introduce a game 
-- How to help and stimulate engagement
-- How to customise lesson pacing and clear expectations
-- How to debrief a game session
-- How to evaluate the outcomes
-
-<!-- slide -->
-
 # Assessment
-Using games for assessment is about more than games scores. 
+Using games for assessment is more than games scores. 
 
-One of the most common misconceptions is that all good learning games must assess learners within the game.
-The truth is that assessment happens around a game more often than it happens inside the game, and teachers must still design and provide authentic, useful assessment tasks for students.
+Assessment happens around a game more often than it happens inside the game, and teachers/coaches must still design and provide authentic, useful assessment tasks for students.
 
 <!-- slide -->
 # Development options
 
-- Use entertainment/commercial games (Assassin Creed / Civilization)
+- Use entertainment/commercial games (Assassin's Creed / Civilization)
 - Modify entertainment games (Kerbal Space Academy)
 - Use virtual worlds (Minecraft)
 - Use educational games (MinecraftEdu)
@@ -214,17 +194,12 @@ The truth is that assessment happens around a game more often than it happens in
 <!-- slide -->
 # Objectives of learning analytics
 
-- discover (patterns)
-- relationship (between parameters)
-- data visualisation
-- prediction model
-
 ![](img/game_learning_analytics.webp)
 
 <!-- slide -->
 
 # GBL challenges
-**Curriculum**: identify how a certain game would connect to the curriculum. 
+**Curriculum**: identify how a certain game can connect to the curriculum. 
 
 **Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
 
@@ -235,10 +210,5 @@ The truth is that assessment happens around a game more often than it happens in
 **Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
 
 **Developers** encourage and support game developers in the creation of better educational games
-
-<!-- slide -->
-# some games examples
-
-see [some case studies](https://stefano.cecere.org/studio/dev-g4c/20-temi_case_studies/)
 
 
